@@ -1,0 +1,5 @@
+.product-card img { height: 210px; object-fit: cover; }
+.admin-sidebar { min-height: 100vh; }
+.footer { margin-top: 60px; }
+.detail-img { max-height: 380px; object-fit: cover; }
+.table-actions a { margin-right: 6px; }
